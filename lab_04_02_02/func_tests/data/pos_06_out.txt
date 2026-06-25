@@ -1,0 +1,4 @@
+Result:
+apple no
+banana no
+cherry no

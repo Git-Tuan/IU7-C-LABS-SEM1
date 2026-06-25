@@ -1,0 +1,8 @@
+Result:
+hello no
+world yes
+test yes
+foo no
+bar no
+baz yes
+end no

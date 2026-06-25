@@ -1,0 +1,18 @@
+#ifndef STATUS_H
+#define STATUS_H
+
+typedef enum
+{
+    STATUS_SUCCESS = 0,
+    STATUS_WRONG_MAIN_ARGS = 1,
+    STATUS_WRONG_MODE = 2,
+    STATUS_READ_ERROR = 3,
+    STATUS_SEEK_ERROR = 4,
+    STATUS_WRITE_ERROR = 5,
+    STATUS_OPEN_FILE_ERROR = 6,
+    STATUS_FILL_FILE_ERROR = 7,
+    STATUS_FILE_SIZE_ERROR = 8,
+    STATUS_FILE_CLOSE_ERROR = 9
+} return_code_t;
+
+#endif

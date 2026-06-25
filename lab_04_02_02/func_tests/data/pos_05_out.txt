@@ -1,0 +1,4 @@
+Result:
+hello yes
+world no
+test yes

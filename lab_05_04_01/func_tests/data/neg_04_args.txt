@@ -1,0 +1,1 @@
+fb ./func_tests/data/neg_04.bin ./func_tests/data/out_empty.bin Xyz
